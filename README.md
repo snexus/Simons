@@ -1,1 +1,1 @@
-# Tic Tac Toe game
+# Simon's game
